@@ -1,0 +1,3 @@
+$a0 -> taille N*N, dans $s6 aussi
+$a1 -> adresse début tableau, dans $s7 aussi
+$a2 -> N  saisie par l utlisateur, aussi dans $s5
